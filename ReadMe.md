@@ -3,9 +3,9 @@
 * bullet
 * list
 
-10. numbered
+1. numbered
 1. list
-11. here
+1. here
 
 ---
 `code`
